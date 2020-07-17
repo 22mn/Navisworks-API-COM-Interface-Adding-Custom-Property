@@ -1,0 +1,35 @@
+﻿<Window x:Class="Lab8_Exercise.InputDialog"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Lab8_Exercise"
+             mc:Ignorable="d" 
+             Height="200" Width="300" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" Margin="5">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="5">
+                    <TextBlock Text="Category Name : "  Width="100" Margin="3" TextAlignment="Right"/>
+                    <TextBox Name="cateName" Width="150" BorderBrush="LightGray"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="5">
+                    <TextBlock Text="Property Name : "  Width="100" Margin="3" TextAlignment="Right"/>
+                    <TextBox Name="propName" Width="150" BorderBrush="LightGray"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="5">
+                    <TextBlock Text="Property Value : " Width="100" Margin="3" TextAlignment="Right"/>
+                    <TextBox Name="propValue" Width="150" BorderBrush="LightGray"/>
+                </StackPanel>
+                <StackPanel Margin="15">
+                    <Button Content="OK" Width="80" Height="20" Background="WhiteSmoke" 
+                            Click="Button_Click"/> 
+                </StackPanel>
+            </StackPanel>
+        </Border>
+
+    </Grid>
+</Window>

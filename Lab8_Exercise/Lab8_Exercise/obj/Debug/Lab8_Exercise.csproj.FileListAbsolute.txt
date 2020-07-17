@@ -1,0 +1,11 @@
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab8_Exercise\Lab8_Exercise\bin\Debug\Lab8_Exercise.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab8_Exercise\Lab8_Exercise\bin\Debug\Lab8_Exercise.pdb
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab8_Exercise\Lab8_Exercise\obj\Debug\Lab8_Exercise.csprojAssemblyReference.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab8_Exercise\Lab8_Exercise\obj\Debug\Lab8_Exercise.csproj.CoreCompileInputs.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab8_Exercise\Lab8_Exercise\obj\Debug\Lab8_Exercise.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab8_Exercise\Lab8_Exercise\obj\Debug\Lab8_Exercise.pdb
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab8_Exercise\Lab8_Exercise\obj\Debug\InputDialog.g.cs
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab8_Exercise\Lab8_Exercise\obj\Debug\Lab8_Exercise_MarkupCompile.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab8_Exercise\Lab8_Exercise\obj\Debug\Lab8_Exercise_MarkupCompile.lref
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab8_Exercise\Lab8_Exercise\obj\Debug\InputDialog.baml
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab8_Exercise\Lab8_Exercise\obj\Debug\Lab8_Exercise.g.resources
